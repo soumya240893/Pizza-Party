@@ -1,4 +1,6 @@
 # Pizza-Party
+~~adithi~~
+adithi<sub>adi</sub>
 
 <img src= "https://github.com/soumya240893/Pizza-Party/blob/main/images/Pizza.jpg" width=50% height=50%>
 
@@ -10,6 +12,5 @@
   4. Corn
   5. Chilli Ketchup
 
-~adithi~
-adithi<sub>adi<sub>
+
 
